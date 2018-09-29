@@ -1,0 +1,30 @@
+/*
+Colors:
+
+Text: 1A1A1A
+Green: #00B172
+White: #FFF
+
+*/
+.navMenu img{
+  height:60px;
+  width: 200px;
+  padding: 5px 20px;
+}
+.navMenu li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 10px;
+  position: fixed right;
+}
+.navMenu{
+  display: inline;
+}
+.section2 img{
+  height: 8%;
+  width: 8%;
+}
+.section3 img{
+  height: 25%;
+  width: 25%;
+}
